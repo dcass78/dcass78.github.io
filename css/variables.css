@@ -4,4 +4,7 @@
     color:  #354CBF;
     color:  #359ABF;
     color: #35bf7a;
+    --font-one: 'Monoton', cursive;
+    --font-two: 'Oswald', sans-serif;
+    --font-three: 'Oswald', sans-serif;
 }
