@@ -1,0 +1,22 @@
+
+
+.portfolio{
+    font-family: var(--font-two);
+    text-align:center;
+    padding: 10px;
+    color:#5c5c4e; 
+    background: transparent;
+
+}
+.display-5{
+color: white;
+background: transparent;
+padding: 10px;
+
+}
+.portfolioContainer{
+    height: 300px;
+    background: transparent;
+    padding: 10px;
+
+}

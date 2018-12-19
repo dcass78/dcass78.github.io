@@ -1,19 +1,26 @@
 .jumbotron
 {
-    background: url('https://images.pexels.com/photos/248174/pexels-photo-248174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center 25%;
-    
+    background: transparent;
     background-size:cover;
-    /*color: white;*/
-    /*text-shadow: 1em 1em 1em var(--black);*/
-    /*font-family: var(--font one);*/
-    
+    color: #3d3d34;
+    font-family: var(--font one);
     text-align:center;
-    height: 800px;
+    height: 500px;
 }
-.display-4 {
-    font-family: var(--font-one);
-    text-align:center;
-        }
-.lead{
-    font-family: var(--font one)
+.name{
+    font-size: 80px;
+
 }
+    .jumbotroncontent{
+        width: 410px;
+        font-size: 26px;
+        line-height: 40px;
+        color: #1b1b18;
+        margin: 1em auto 0;
+        
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }

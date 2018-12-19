@@ -1,3 +1,124 @@
 body {
-    background: var(--blue);
+    background: url('https://images.pexels.com/photos/153917/pexels-photo-153917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center 25%;
+    background-size: cover;
+    --font-one: 'Monoton', cursive;
+    text-align: center;
+    word-spacing: normal;
+    color: white;
+}
+/* .container{
+    text-align: center;
+
+
+} */
+/* .container{ */
+    /* --font-three: 'Oswald', sans-serif; */
+    /* text-align: center;
+    height: 300px;
+    padding: 45px;
+    background: #757563; */
+.button1 {
+    display: inline-block;
+    border-radius: 4px;
+    background: #f4511e;
+    border: none;
+    color: #757563;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button2 {
+    display: inline-block;
+    border-radius: 4px;
+    background: #f4511e;
+    border: none;
+    color: #757563;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button3 {
+    display: inline-block;
+    border-radius: 4px;
+    background: #f4511e;
+    border: none;
+    color: #5c5c4e;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button4 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #5c5c4e;
+    text-align: center;
+    font-size: 18px;
+    padding: 3px;
+    width: 150px;
+    height: 30px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button5 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #5c5c4e;
+    text-align: center;
+    font-size: 13px;
+    padding: 5px;
+    width: 50px;
+    height: 30px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button6 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #5c5c4e;
+    text-align: center;
+    font-size: 13px;
+    padding: 5px;
+    width: 50px;
+    height: 30px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button7 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #5c5c4e;
+    text-align: center;
+    font-size: 13px;
+    padding: 5px;
+    width: 50px;
+    height: 30px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
 }

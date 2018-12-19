@@ -1,11 +1,23 @@
-#nav-content{
-    margin-left: 80%;
+
+
+/*  */
+/* .navbarcontent{
+  word-spacing: normal;
+
+
+}
+body {
+  padding: 20px 0px 20px 00px;
 }
 
-.navbar-brand {
-    color: white;
-    font-family: var(--font-one);
+.navbar {
+  background-color: #000;
+  word-spacing: normal;
 }
-.nav-item{
-    
+.container{
+  word-spacing: normal;
 }
+#nav-item{
+  word-spacing: normal;
+
+} */

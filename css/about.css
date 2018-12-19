@@ -1,0 +1,23 @@
+
+#about{
+    font-family: var(--font-two);
+    text-align:center;
+    height: 40vh;
+    padding: 1px;
+    background: #5c5c4e;
+    
+}
+h1{
+    font-family: var(--font-one);
+    padding: 5px;
+
+}
+.display-4{
+    font-size: 40px;
+    padding: 5px;
+
+}
+h2{
+    font-size: 15px;
+
+}
