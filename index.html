@@ -53,17 +53,23 @@
     </div>
 </section>
 <section class="contact">
-<div class="portfolioContainer">
-<h1 class="display-5">Contact Me</h1>
-
-      <form>
-		    <input name="nameContact" placeholder="What is your name?" class="nameContact" required />
-		    <input name="emailaddress" placeholder="What is your email?" class="email" type="email" required />
-      <form method="POST" action="https://formspree.io/dcass78@yahoo.com"> 
+  <div class="contactContainer">
+    <h1 class="display-5">Contact Me</h1>
+    <form method="POST" action="https://formspree.io/dcass78@yahoo.com">
+      <input name="nameContact" placeholder="What is your name?" class="nameContact" required />
+      <input name="emailaddress" placeholder="What is your email?" class="email" type="email" required />
+      <textarea name="message" placeholder="Test Message"></textarea>
+      <input name="submit" class="btn" type="submit" value="Send" />
+    </form>
+    <!-- <form>
+      <input name="nameContact" placeholder="What is your name?" class="nameContact" required />
+      <input name="emailaddress" placeholder="What is your email?" class="email" type="email" required />
+      <form  action="https://formspree.io/dcass78@yahoo.com" method="POST"> 
         <textarea rows="4" cols="50" name="subject" placeholder="Please enter your message" class="message" required></textarea>
         <input name="submit" class="btn" type="submit" value="Send" />
-      </form>
-      </div>
+      </form> -->
+    </div>
+  </div>
 </section>
 <footer>
   <div id="footer">

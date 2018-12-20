@@ -1,15 +1,16 @@
 
 
-    @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-    /* body {
-          background:#2d3b36 url(http://www.luismruiz.com/img/blured.jpg)no-repeat center center fixed;
+     @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+    .contactContainer {
+          background:#5c5c4e ;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
           background-size: cover;
         padding-top:100px;
-    } */
-    .contact{
+
+    }  
+     .contact{
 
         Background:#5c5c4e;
         height: 100vh;
@@ -173,4 +174,4 @@
         -webkit-box-shadow: rgba(255,255,255,0) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
         -moz-box-shadow: rgba(255,255,255,0) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
         box-shadow: rgba(255,255,255,0) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
-       }
+       } 
